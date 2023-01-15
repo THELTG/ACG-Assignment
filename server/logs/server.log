@@ -1,0 +1,132 @@
+2022-02-13 20:49:51.366523 >>> [SERVER]   Private Key Decrypted
+2022-02-13 20:49:51.367523 >>> [SERVER]   Starting...
+2022-02-13 20:49:57.483905 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:49:57.484903 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:49:57.586631 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:49:57.598599 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_49_57.jpg
+
+2022-02-13 20:50:05.707842 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:50:05.792123 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:50:05.794119 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:50:05.894991 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_50_05.jpg
+
+2022-02-13 20:50:11.918325 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:50:12.017014 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:50:12.017997 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:50:12.113440 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_50_11.jpg
+
+2022-02-13 20:50:14.080069 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:50:14.162339 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:50:14.163338 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:50:14.259836 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_50_13.jpg
+
+2022-02-13 20:50:43.875494 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:50:43.876491 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:50:43.978742 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_50_43.jpg
+
+2022-02-13 20:50:43.979741 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:50:49.477387 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:50:49.590571 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:50:49.591568 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:50:49.689308 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_50_49.jpg
+
+2022-02-13 20:51:13.129498 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:51:13.130495 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:51:13.131493 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:51:13.225243 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_51_01.jpg
+
+2022-02-13 20:51:14.042666 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:51:14.242068 >>> [FATAL]    Unexpected loss of decryption_key(s) / gain of unknown file(s), resetting values. FTP intrusion suspected
+2022-02-13 20:51:14.247053 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:51:14.248050 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:51:14.248050 >>> [SERVER]   Unknown file in ./data
+2022-02-13 20:51:15.769481 >>> [FATAL]    Unexpected loss of decryption_key(s) / gain of unknown file(s), resetting values. FTP intrusion suspected
+2022-02-13 20:51:29.074484 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:51:29.075481 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:51:29.168020 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:51:29.177986 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_51_28.jpg
+
+2022-02-13 20:51:34.786904 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:51:34.809847 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:51:34.810844 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:51:34.905590 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_51_34.jpg
+
+2022-02-13 20:51:41.540648 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:51:41.541645 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:51:41.629415 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:51:41.640385 >>> [FAIL]     Image decrypted but unverified, out > /unverified/2022_02_13_20_51_41.jpg
+
+2022-02-13 20:51:54.458487 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:51:54.460482 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:51:54.555736 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_51_54.jpg
+
+2022-02-13 20:51:54.628605 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:52:03.222907 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:52:03.223886 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:52:03.317719 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:52:03.320711 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_52_02.jpg
+
+2022-02-13 20:52:09.857936 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:52:09.970214 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:52:09.971212 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:52:10.069376 >>> [FAIL]     Image decrypted but unverified, out > /unverified/2022_02_13_20_52_09.jpg
+
+2022-02-13 20:52:20.741121 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:52:20.742118 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:52:20.828305 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:52:20.840270 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_52_20.jpg
+
+2022-02-13 20:52:26.888268 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:52:27.001426 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:52:27.002444 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:52:27.099182 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_52_26.jpg
+
+2022-02-13 20:52:32.627090 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:52:32.739556 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:52:32.741552 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:52:32.837296 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_52_32.jpg
+
+2022-02-13 20:52:37.967730 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:52:37.969724 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:52:38.065089 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_13_20_52_37.jpg
+
+2022-02-13 20:52:38.088273 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:52:51.800922 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:52:51.801920 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:52:51.902224 >>> [FAIL]     Image decrypted but unverified, out > /unverified/2022_02_13_20_52_51.jpg
+
+2022-02-13 20:52:51.968047 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:52:58.366248 >>> [SERVER]   Public Key exchange complete
+2022-02-13 20:52:58.525043 >>> [SERVER]   AES Key for decryption received
+2022-02-13 20:52:58.526040 >>> [SUCCESS]  Public Key certificate verified
+2022-02-13 20:52:58.625085 >>> [FAIL]     Image decrypted but unverified, out > /unverified/2022_02_13_20_52_57.jpg
+
+2022-02-17 15:16:33.844102 >>> [SERVER]   Private Key Decrypted
+2022-02-17 15:16:33.846104 >>> [SERVER]   Starting...
+2022-02-17 15:16:47.592592 >>> [SERVER]   AES Key for decryption received
+2022-02-17 15:16:47.596582 >>> [SUCCESS]  Public Key certificate verified
+2022-02-17 15:16:47.827269 >>> [SERVER]   Public Key exchange complete
+2022-02-17 15:16:47.918902 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_17_15_16_47.jpg
+
+2022-02-17 15:17:08.769808 >>> [SERVER]   AES Key for decryption received
+2022-02-17 15:17:08.772800 >>> [SUCCESS]  Public Key certificate verified
+2022-02-17 15:17:08.801721 >>> [SERVER]   Public Key exchange complete
+2022-02-17 15:17:09.091326 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_17_15_17_08.jpg
+
+2022-02-17 15:19:52.576243 >>> [SERVER]   Private Key Decrypted
+2022-02-17 15:19:52.577074 >>> [SERVER]   Starting...
+2022-02-17 15:20:03.733595 >>> [SERVER]   Public Key exchange complete
+2022-02-17 15:20:03.841605 >>> [SERVER]   AES Key for decryption received
+2022-02-17 15:20:03.846594 >>> [SUCCESS]  Public Key certificate verified
+2022-02-17 15:20:04.169804 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_17_15_20_03.jpg
+
+2022-02-17 15:20:20.211527 >>> [SERVER]   Public Key exchange complete
+2022-02-17 15:20:20.465848 >>> [SERVER]   AES Key for decryption received
+2022-02-17 15:20:20.470831 >>> [SUCCESS]  Public Key certificate verified
+2022-02-17 15:20:20.778016 >>> [SUCCESS]  Image decrypted and verified, out > /images/2022_02_17_15_20_19.jpg
+
+2022-02-17 15:31:10.723976 >>> [SERVER]   Public Key exchange complete
+2022-02-17 15:31:10.997251 >>> [SERVER]   AES Key for decryption received
+2022-02-17 15:31:11.003235 >>> [SUCCESS]  Public Key certificate verified
+2022-02-17 15:31:11.367255 >>> [FAIL]     Image decrypted but unverified, out > /unverified/2022_02_17_15_31_10.jpg
+
